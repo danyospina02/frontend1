@@ -1,0 +1,63 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    display: block;
+    width: 100px;
+    height: 146.37px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.curriculum{
+    background-color: #c4c4c4;
+    color: #005677; 
+    font-size: 35px;
+    font-weight: 700px;
+    font-style: normal;
+    text-align: center;
+}
+
+h2.subtitle {
+    background-color: #c4c4c4;
+    color: #005677; 
+    font-size: 20px;
+    font-weight: 700px;
+    font-style: normal;   
+}
+
+ul.datos {
+    font-size: 15px;
+    display: inline;    
+}
+
+span.datos{
+    font-weight: bold;
+    font-style: italic;
+}
+
+div.inline{
+    
+    height: 50px;
+    width: 77px;   
+    float: left;
+    font-weight: bold;
+}
+
+.footer{
+    text-align: center;
+    background-color: #005677;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
